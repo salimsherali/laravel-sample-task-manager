@@ -1,0 +1,27 @@
+/* public/css/app.css */
+
+/* Override Bootstrap container padding */
+.container {
+    padding-top: 20px;
+}
+
+/* Center align page content */
+.center {
+    text-align: center;
+}
+
+/* Add margin bottom to buttons */
+.btn {
+    margin-bottom: 5px;
+}
+
+
+/* Add custom styles here */
+.container {
+    margin-top: 20px;
+}
+
+.custom-btn {
+    background-color: #ff0000;
+    color: #ffffff;
+}
